@@ -25,7 +25,7 @@ We welcome contributions from everyone. If you have an idea, feature request, or
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the (https://artalavista.com).
 
 ## Contact
 
